@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1148159/geronimo/daytrader/trunk/javaee6/modules/web/src/main/java/org/apache/geronimo/daytrader/javaee6/web
+END
+TradeAppServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1071543/geronimo/daytrader/trunk/javaee6/modules/web/src/main/java/org/apache/geronimo/daytrader/javaee6/web/TradeAppServlet.java
+END
+TradeBuildDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1071965/geronimo/daytrader/trunk/javaee6/modules/web/src/main/java/org/apache/geronimo/daytrader/javaee6/web/TradeBuildDB.java
+END
+TradeDirectContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1071543/geronimo/daytrader/trunk/javaee6/modules/web/src/main/java/org/apache/geronimo/daytrader/javaee6/web/TradeDirectContextListener.java
+END
+TradeJPAContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1071543/geronimo/daytrader/trunk/javaee6/modules/web/src/main/java/org/apache/geronimo/daytrader/javaee6/web/TradeJPAContextListener.java
+END
+TradeScenarioServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1071543/geronimo/daytrader/trunk/javaee6/modules/web/src/main/java/org/apache/geronimo/daytrader/javaee6/web/TradeScenarioServlet.java
+END
+TradeConfigServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1076572/geronimo/daytrader/trunk/javaee6/modules/web/src/main/java/org/apache/geronimo/daytrader/javaee6/web/TradeConfigServlet.java
+END
+OrdersAlertFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1076572/geronimo/daytrader/trunk/javaee6/modules/web/src/main/java/org/apache/geronimo/daytrader/javaee6/web/OrdersAlertFilter.java
+END
+TradeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1076572/geronimo/daytrader/trunk/javaee6/modules/web/src/main/java/org/apache/geronimo/daytrader/javaee6/web/TradeAction.java
+END
+TradeJDBCContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1071543/geronimo/daytrader/trunk/javaee6/modules/web/src/main/java/org/apache/geronimo/daytrader/javaee6/web/TradeJDBCContextListener.java
+END
+TradeServletAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1076572/geronimo/daytrader/trunk/javaee6/modules/web/src/main/java/org/apache/geronimo/daytrader/javaee6/web/TradeServletAction.java
+END

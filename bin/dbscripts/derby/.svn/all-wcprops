@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1156572/geronimo/daytrader/trunk/bin/dbscripts/derby
+END
+createDerbyDB.bat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1156572/geronimo/daytrader/trunk/bin/dbscripts/derby/createDerbyDB.bat
+END
+createDerbyDB.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1156572/geronimo/daytrader/trunk/bin/dbscripts/derby/createDerbyDB.sh
+END
+Table.ddl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1156572/geronimo/daytrader/trunk/bin/dbscripts/derby/Table.ddl
+END

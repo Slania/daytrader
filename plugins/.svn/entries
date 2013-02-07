@@ -1,0 +1,92 @@
+10
+
+dir
+1443207
+http://svn.apache.org/repos/asf/geronimo/daytrader/trunk/plugins
+http://svn.apache.org/repos/asf
+
+
+
+2012-05-02T06:59:17.430497Z
+1332933
+xiaming
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+daytrader-informix-datasource
+dir
+
+daytrader-tomcat
+dir
+
+daytrader-jms
+dir
+
+daytrader-postgre-datasource
+dir
+
+daytrader-derby-datasource
+dir
+
+daytrader-mysql-datasource
+dir
+
+daytrader-oracle-datasource
+dir
+
+pom.xml
+file
+
+
+
+
+2013-02-06T20:54:17.684498Z
+2d232894ec165febcb04ed5c3c6858f6
+2011-06-02T02:39:22.504505Z
+1130383
+violalu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8102
+
+daytrader-sqlserver-datasource
+dir
+
+daytrader-db2-datasource
+dir
+
+daytrader-jetty
+dir
+
